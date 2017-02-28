@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hejiangle/to-do-list-mvc/issues"
   },
-  "homepage": "https://github.com/hejiangle/to-do-list-mvc#readme"
+  "homepage": "https://github.com/hejiangle/to-do-list-mvc#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
